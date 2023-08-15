@@ -1,0 +1,9 @@
+#heder{
+    background: #2f4f4f;
+    color: white;
+    padding: 2rem 0;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%; 
+}
